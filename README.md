@@ -1,8 +1,6 @@
 
 
-### workflow钉钉审批流程设置
-
-workflow钉钉审批流程设置，基于vue开发。QQ交流群：639251756
+### workflow
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191116144905578.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3Mjg1MTkz,size_16,color_FFFFFF,t_70 )
 -  [线上开源地址 https://github.com/StavinLi/Workflow](https://github.com/StavinLi/Workflow) github点个星吧！
 -  [预览地址 http://stavinli.gitee.io/workflow/#/](http://stavinli.gitee.io/workflow/#/) 
@@ -10,7 +8,6 @@ workflow钉钉审批流程设置，基于vue开发。QQ交流群：639251756
  
 
 #### 项目介绍
-- UI钉钉风格
 - 技术点
 1. 组件自调用+递归处理，按树状结局处理审批流程问题
 - 主要功能点
@@ -95,7 +92,6 @@ if (type == 1 || type == 2) {
 ```
 #### 项目安装
 
-> git clone https://github.com/StavinLi/Workflow.git 点个赞吧！
 
 #### 项目运行
 > 1.环境依赖  `npm i`
